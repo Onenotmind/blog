@@ -213,7 +213,7 @@ vm.$createElement('div')
 { tag: 'div', data: { attrs: {}}, children: [] } Plain Javascript Object (cheap)
 ```
 
-### Render Function API
+### Vue Render Function API
 
 ```js
 export default {
