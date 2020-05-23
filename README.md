@@ -1,5 +1,19 @@
 # yaroku's blog
 
+# 运行
+
+```bash
+yarn install
+
+git clone https://github.com/iissnan/hexo-theme-next themes/next
+
+npm run clean
+
+npm run build
+
+npm run server
+```
+
 ### category
 
 默认类别：
