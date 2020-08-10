@@ -241,3 +241,5 @@ function myInstance(left, right) {
   }
 }
 ```
+
+## deepclone
