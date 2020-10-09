@@ -35,6 +35,11 @@
 
 ## 动画IP显示
 
+- [教育动画展示](./awesome-animation) - 
+
 ## 翻译小说
 
+## 摩比调研
+
+- [mobby-research](./mobby-research) - 摩比调研
 
